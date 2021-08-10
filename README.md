@@ -1,2 +1,3 @@
 # hello-world
-Just another reppository
+
+This is an old dog learning new tricks
